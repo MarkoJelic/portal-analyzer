@@ -1,0 +1,4 @@
+# Pipeline configuration (example)
+pipeline:
+  batch_size: 32
+  embed_model: sentence-transformers/all-MiniLM-L6-v2

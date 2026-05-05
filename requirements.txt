@@ -1,0 +1,6 @@
+# Minimal requirements
+requests
+beautifulsoup4
+PyYAML
+numpy
+scikit-learn
