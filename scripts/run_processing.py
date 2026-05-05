@@ -1,4 +1,5 @@
-"""Run processing pipeline (placeholder)."""
+from src.processing.processor import RSSProcessor
 
-if __name__ == '__main__':
-    print('Running processing')
+if __name__ == "__main__":
+    processor = RSSProcessor()
+    processor.run()

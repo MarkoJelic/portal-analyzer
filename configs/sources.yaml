@@ -1,8 +1,9 @@
-# Sources to track (example)
 sources:
-  - id: n1
-    name: N1
-    rss: https://www.n1info.com/rss
-  - id: nova
-    name: Nova
-    rss: https://www.nova.rs/rss
+  - name: n1
+    rss_url: https://rs.n1info.com/feed/
+
+  - name: nova
+    rss_url: https://nova.rs/feed/
+
+  - name: rts
+    rss_url: https://www.rts.rs/page/stories/sr/rss.html
